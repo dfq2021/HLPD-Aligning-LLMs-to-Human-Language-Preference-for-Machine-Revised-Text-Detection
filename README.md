@@ -31,4 +31,4 @@ achieves the highest average AUROC, exceeding ImBD by
 
 ## Results
 
-DATE coming soon.
+training code coming soon.
